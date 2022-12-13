@@ -1,6 +1,6 @@
 {
   "name": "ee.taltech.ivar.robotics.unity-urdf-importer",
-  "version": "0.5.3-preview",
+  "version": "0.5.4-preview",
   "displayName": "Unity URDF Importer",
   "description": "Facilitates importing configurations from the Universal Robot Description Format",
   "unity": "2020.2",
