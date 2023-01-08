@@ -1,3 +1,15 @@
+## [0.5.5](https://github.com/TalTech-IVAR-Lab/Unity-URDF-Importer/compare/v0.5.4...v0.5.5) (2023-01-08)
+
+
+### ⚙️ CI/CD
+
+* Fix CI working directory ([a05d83a](https://github.com/TalTech-IVAR-Lab/Unity-URDF-Importer/commit/a05d83a2cd1cfdd397886f721d0c2a859a2927f9))
+
+
+### 🛠 Fixes
+
+* Update shields in README ([09f65ce](https://github.com/TalTech-IVAR-Lab/Unity-URDF-Importer/commit/09f65ce6ab346ec4e34044677ba61ca7624dd046))
+
 # Changelog
 
 All notable changes to this repository will be documented in this file.
