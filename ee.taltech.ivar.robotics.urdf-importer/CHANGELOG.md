@@ -1,3 +1,10 @@
+## [0.5.6](https://github.com/TalTech-IVAR-Lab/Unity-URDF-Importer/compare/v0.5.5...v0.5.6) (2023-01-08)
+
+
+### 🛠 Fixes
+
+* WIP on CI ([278b7d4](https://github.com/TalTech-IVAR-Lab/Unity-URDF-Importer/commit/278b7d41f6e94c529f81560b3a61425bce7af0bf))
+
 ## [0.5.5](https://github.com/TalTech-IVAR-Lab/Unity-URDF-Importer/compare/v0.5.4...v0.5.5) (2023-01-08)
 
 
