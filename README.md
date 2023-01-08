@@ -1,6 +1,6 @@
 # URDF Importer 
 
-[![Version](https://img.shields.io/github/v/tag/Unity-Technologies/URDF-Importer)](https://github.com/Unity-Technologies/URDF-Importer/releases)
+[![Version](https://img.shields.io/github/v/tag/TalTech-IVAR-Lab/URDF-Importer)](https://github.com/TalTech-IVAR-Lab/URDF-Importer/releases)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green.svg)](LICENSE.md)
 ![Unity](https://img.shields.io/badge/unity-2020.2+-brightgreen)
 
